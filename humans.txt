@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Teeragit Hare -- Design and Developer -- @teeragit
+
+# THANKS
+
+    Taungmon, QJ, and all of Hatchery
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Normalize.css
